@@ -1,0 +1,2 @@
+# nextjs-app
+Learning NextJS
